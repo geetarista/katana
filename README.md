@@ -1,5 +1,6 @@
 # katana 刀
 
+[![Latest Version](http://img.shields.io/github/release/geetarista/katana.svg?style=flat-square)](https://github.com/geetarista/katana/releases)
 [![Build Status](https://drone.io/github.com/geetarista/katana/status.png)](https://drone.io/github.com/geetarista/katana/latest)
 
 An implementation of diceware passphrases with additional functionality.
